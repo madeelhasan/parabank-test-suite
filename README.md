@@ -1,6 +1,6 @@
 # ParaBank Test Suite
 
-A Python test automation portfolio project targeting the [ParaBank demo banking site](https://parabank.parasoft.com/parabank/index.htm). It's a bridge project from manual QA into automation: every flow below is one I'd have tested by hand on a real banking app, rewritten as a maintainable, CI-driven suite.
+A Python test automation portfolio project targeting the [ParaBank demo banking site](https://parabank.parasoft.com/parabank/index.htm). This is a portfolio project demonstrating AI-assisted test automation: every flow below is one I'd have tested by hand on a real banking app, rewritten as a maintainable, CI-driven suite.
 
 ## What this demonstrates
 
